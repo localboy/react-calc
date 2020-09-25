@@ -11,7 +11,6 @@ In the project directory, you can run:
 ### `npm install` - to install dependencies
 ### `npm start` - to run the project
 
-
 ## For yarn user
 ================
 ### `yarn start`
