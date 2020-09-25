@@ -1,9 +1,19 @@
+# Simple Calculator by Reactjs
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+## For npm user
+=================
+### `npm install` - to install dependencies
+### `npm start` - to run the project
+
+
+## For yarn user
+================
 ### `yarn start`
 
 Runs the app in the development mode.<br />
